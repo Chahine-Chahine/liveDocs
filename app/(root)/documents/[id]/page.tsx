@@ -4,7 +4,7 @@ import React from 'react'
 
 const Document = () => {
   return (
-    <main className='flex w-full flex-col items-center'>
+    <main className='flex w-full flex-col'>
      <CollaborativeRoom/>
     </main>
   )
